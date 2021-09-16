@@ -8,4 +8,4 @@
 | HR02  | Temperature sensor should toggle the temperature  | Automatic  | IMPLEMENTED  |   
 |  HR03 | Temperature is beyond threshold then turn Off or on AC  | Manual  | IMPLEMENTED  |   
 | HR04  |display Temperature Value on LCD Screen   |  Automatic | IMPLEMENTED  |   
-|  HR05 |   |   |   |   |
+|  HR05 | Exit from the system when Vehicle is not moving  |  Automatic | IMPLEMENTED   |   
