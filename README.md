@@ -54,3 +54,7 @@ Since its is harware based  system so getting damage is high chances.
 |  3_Implementation | All the code is written here  |     
 | 4_Simulation  | Simluation file is there   |
 | 5_Images and Videos  | All interfacing outputs and videos are there   |
+
+## Challenges Faced and How Was It Overcome
+. Interfacing the embedded code with Atmeg328 microcontroller . so, i refered youtube videos and the some paper on embedded c
+. Circuit connection to overcome this i have refred course materials related to SimulIDE software.
