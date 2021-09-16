@@ -57,4 +57,5 @@ Since its is harware based  system so getting damage is high chances.
 
 ## Challenges Faced and How Was It Overcome
 . Interfacing the embedded code with Atmeg328 microcontroller . so, i refered youtube videos and the some paper on embedded c
+
 . Circuit connection to overcome this i have refred course materials related to SimulIDE software.
