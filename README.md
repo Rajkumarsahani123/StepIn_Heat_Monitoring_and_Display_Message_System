@@ -41,3 +41,16 @@ Since its is harware based  system so getting damage is high chances.
 
 ### Where
 . This system is specially used on the place where winter season is there forever.
+
+### How
+. This system takes inputs from the person and then its start working.
+
+## Folder Structure
+
+| Folder  |  Description |   
+|---|---|
+|  1_Requirements |Documents detailing requirements   |  
+| 2_Architecture  | Structural and Behavioural UML  |  
+|  3_Implementation | All the code is written here  |     
+| 4_Simulation  | Simluation file is there   |
+| 5_Images and Videos  | All interfacing outputs and videos are there   |
