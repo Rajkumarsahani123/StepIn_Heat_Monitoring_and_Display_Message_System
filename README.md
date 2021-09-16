@@ -8,7 +8,10 @@ The CaseActivity “Heat monitoring and Display Message System is done  in Embed
 
 ### Objectives:
 1.This system aims to simplify the task of maintaining Temperature inside the vehicles.
+
 2.To know whether the passenger is seated or not
+
 3.To display proper temperature value on LCD Screen.
+
 4.Should be user friendly.
  
