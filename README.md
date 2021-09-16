@@ -15,4 +15,29 @@ The CaseActivity “Heat monitoring and Display Message System is done  in Embed
 
 4.Should be user friendly.
  
-# SWOT Analysis
+## SWOT Analysis
+### Strength: 
+Easy to access this system and cost effective 
+
+### Weakness: 
+Modification required as the Technology changes.
+
+### Opportunity: 
+It can be use for high scale user requirement like Home, Office etc.
+
+### Threats: 
+Since its is harware based  system so getting damage is high chances.
+
+## 4W's and 1H's
+
+### Who
+. All the automobiles industries can apply this system.
+
+### What
+. Its a kind of manual system to turn on and off the AC in the vehicles
+
+### When
+. This system can be use according to the atmosphere condition.
+
+### Where
+. This system is specially used on the place where winter season is there forever.
