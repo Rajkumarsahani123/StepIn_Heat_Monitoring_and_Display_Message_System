@@ -12,7 +12,7 @@
 
 ### Low Level Requirements
 
-| ID  | Description  | HLR ID |  Status |   |
+| ID  | Description  | HLR ID |  Status |   
 |---|---|---|---|
 | LR01  |Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1   |HR01   | IMPLEMENTED  |   
 | LR02  | System will tell user that temperature is switching  | HR02  | IMPLEMENTED  |   
