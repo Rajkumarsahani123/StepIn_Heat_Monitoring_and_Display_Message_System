@@ -15,3 +15,4 @@ The CaseActivity “Heat monitoring and Display Message System is done  in Embed
 
 4.Should be user friendly.
  
+# SWOT Analysis
