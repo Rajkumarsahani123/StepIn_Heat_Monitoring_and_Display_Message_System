@@ -17,5 +17,5 @@
 | LR01  |Sensor output(LED Turn on or Off) will be in boolean form either 0 or 1   |HR01   | IMPLEMENTED  |   
 | LR02  | System will tell user that temperature is switching  | HR02  | IMPLEMENTED  |   
 | LR03  | user have to turn on or off the vehicle AC | HR03|  IMPLEMENTED   |   
-| LR04  |   |   |   |   |
-| LR05   |   |   |   |   |
+| LR04  |  System will display the temperature value inside the vehicle | HR04  |  IMPLEMENTED |   
+| LR05   | System will stopped working once vehicle is Stopped  | HR05  | Not IMPLEMENTED  |   
