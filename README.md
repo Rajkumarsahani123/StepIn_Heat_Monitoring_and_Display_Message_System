@@ -59,3 +59,9 @@ Since its is harware based  system so getting damage is high chances.
 . Interfacing the embedded code with Atmeg328 microcontroller . so, i refered youtube videos and the some paper on embedded c
 
 . Circuit connection to overcome this i have refred course materials related to SimulIDE software.
+
+
+
+.[![code quality score](https://www.code-inspector.com/project/28746/score/svg)
+.[![code Grade](https://www.code-inspector.com/project/28746/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d7d1d58b6780493a80ba434c00c5060c)](https://www.codacy.com/gh/Rajkumarsahani123/StepIn_Heat_Monitoring_and_Display_Message_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rajkumarsahani123/StepIn_Heat_Monitoring_and_Display_Message_System&amp;utm_campaign=Badge_Grade)
